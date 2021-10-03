@@ -2,7 +2,7 @@
 
 ## I'm a student of BSUIR
 - ⚡I like to write code
-- ✨I want to write tg-bot
+- ✨I want to write a game
 - 🤔to be continued...
 
 ### Me:
